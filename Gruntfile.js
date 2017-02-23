@@ -7,7 +7,7 @@
   		},
   		dist: {
   			files: {
-  				'main.css': 'main.sass'
+  				'css/style.css': 'sass/style.sass'
   			}
   		}
   	},
